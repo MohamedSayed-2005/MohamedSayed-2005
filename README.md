@@ -9,23 +9,10 @@
 
 ---
 
-### 🚀 Highlights & Achievements
-- 🏆 Winner of **WinterHack 2024** (Competitive Programming Event)
-- 🏅 Completed **Machine Learning** certification on Coursera
-- 🏅 Speaker at **IEEE EMBS Cairo University** events
-
----
-
 ### 🌍 Research Interests
 - Medical Imaging with AI
 - Bioinformatics and Data Science in Healthcare
 - Real-time Monitoring Systems for Medical Devices
-
----
-
-### 🧑‍💻 Current Projects
-- **Smart Incubator System**: Real-time temperature and humidity regulation for biological cultures.
-- **Heartbeat Monitoring System**: Using embedded systems to monitor heart rate and store data in the cloud.
 
 ---
 
@@ -36,24 +23,18 @@
 
 ---
 
-### 🌱 Contributions to Open Source
-- Contributed to **ProjectX** on GitHub: Improved algorithms for medical image processing.
-- Opened a pull request on **HealthTechRepo**: Fixed bugs in data analysis scripts.
-
----
-
 ### 💬 Fun Fact
-- I play chess during my free time and have a decent rating!
-- I'm a huge fan of science fiction, especially **Star Trek** and **The Expanse**.
-- I enjoy hiking and exploring new places on the weekends.
+- I play league of legends during my free time and have a decent ranking!
+- I'm a huge fan of R&D , especially in the field of AI.
+- I enjoy coding and exploring new areas of research.
 
 ---
 
 ### 🔥 GitHub Stats
 
-![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedSayed-2005&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ---
 
 ### 🌐 Let's Connect!
-[LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN) | [GitHub](https://github.com/YOUR_USERNAME)
+[LinkedIn](https://www.linkedin.com/in/mohamed-sayed-283948332) | [GitHub](https://github.com/MohamedSayed-2005)
