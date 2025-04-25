@@ -23,7 +23,7 @@
 
 ---
 
-### 💬 Fun Fact
+### 💬 Some Facts that can't be changed
 - I play league of legends during my free time and have a decent ranking!
 - I'm a huge fan of R&D , especially in the field of AI.
 - I enjoy coding and exploring new areas of research.
